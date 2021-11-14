@@ -1,0 +1,261 @@
+{
+  "layerInfos": [
+    {
+      "name": "sekolah",
+      "id": "d4baeece6e8f4764bcf94d54bf1bf88c",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Tugas_Minggu_ke_6_2__WFL1/FeatureServer/0",
+        "fields": [
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "GmlID",
+            "alias": "GmlID",
+            "show": true
+          },
+          {
+            "name": "id",
+            "alias": "id",
+            "show": true
+          },
+          {
+            "name": "sekolah",
+            "alias": "sekolah",
+            "show": true
+          },
+          {
+            "name": "jenis",
+            "alias": "jenis",
+            "show": true
+          },
+          {
+            "name": "kategori",
+            "alias": "kategori",
+            "show": true
+          },
+          {
+            "name": "keterangan",
+            "alias": "keterangan",
+            "show": true
+          },
+          {
+            "name": "lat",
+            "alias": "lat",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "long",
+            "alias": "long",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "OBJECTID",
+      "isDescending": false
+    },
+    {
+      "name": "jalan",
+      "id": "0a9fda6e25b045b7b64604333fe7747d",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Tugas_Minggu_ke_6_2__WFL1/FeatureServer/1",
+        "fields": [
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "GmlID",
+            "alias": "GmlID",
+            "show": true
+          },
+          {
+            "name": "oid_1",
+            "alias": "oid_1",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "folderpath",
+            "alias": "folderpath",
+            "show": true
+          },
+          {
+            "name": "symbolid",
+            "alias": "symbolid",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "altmode",
+            "alias": "altmode",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "base",
+            "alias": "base",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "clamped",
+            "alias": "clamped",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "extruded",
+            "alias": "extruded",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "snippet",
+            "alias": "snippet",
+            "show": true
+          },
+          {
+            "name": "popupinfo",
+            "alias": "popupinfo",
+            "show": true
+          },
+          {
+            "name": "shape_leng",
+            "alias": "shape_leng",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "jalan",
+            "alias": "jalan",
+            "show": true
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "OBJECTID",
+      "isDescending": false
+    },
+    {
+      "name": "adminkecamatan",
+      "id": "294b55dc0f7f435dab1a97bf3cec0a30",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Tugas_Minggu_ke_6_2__WFL1/FeatureServer/2",
+        "fields": [
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "GmlID",
+            "alias": "GmlID",
+            "show": true
+          },
+          {
+            "name": "kecamatan",
+            "alias": "kecamatan",
+            "show": true
+          },
+          {
+            "name": "kabupaten",
+            "alias": "kabupaten",
+            "show": true
+          },
+          {
+            "name": "Shape__Area",
+            "alias": "Shape__Area",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "OBJECTID",
+      "isDescending": false
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": true,
+  "initiallyExpand": false,
+  "filterByMapExtent": true,
+  "allowTextSelection": true,
+  "syncWithLayers": false
+}
